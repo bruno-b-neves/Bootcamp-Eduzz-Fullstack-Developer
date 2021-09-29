@@ -2,6 +2,7 @@
 Conteúdos passados durante o Bootcamp Eduzz Fullstack Developer
 
 ## HTML5
+* Introdução
   - Definição e Estrutura básica.
   - Textos e links.
   - Semântica.
