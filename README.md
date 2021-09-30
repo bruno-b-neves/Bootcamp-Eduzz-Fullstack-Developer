@@ -16,3 +16,14 @@ Conteúdos passados durante o Bootcamp Eduzz Fullstack Developer
   - Textos e links: Como exercicio faremos um texto ficticio e que terá um link no nosso site pessoal.
   - Imagens: Adicionaremos imagens ao nosso site pessoal.
   - Listas: Adicionaremos uma lista de contato.
+
+## CSS3
+  - Introdução e conceitos básicos do CSS3
+    - Introdução ao CSS3
+    - Conceitos básicos
+  - Estilizando elementos, textos e listas
+    - Estilizando elementos
+    - Estilizando textos
+    - Estilizando listas
+  - Dimensão e alinhamento
+    - Propriedades de Dimensões e Alinhamentos
