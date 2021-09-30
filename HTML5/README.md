@@ -65,17 +65,17 @@
 
 ## Conceitos Básicos
 
-- Box model - Existe 4 áreas, margin, border, padding, content.
+### Box model - Existe 4 áreas, margin, border, padding, content.
 
-  - Margin - É o espaçamento entre elementos.
+- Margin - É o espaçamento entre elementos.
 
-  - Border - Circunda o padding e o content. Com a border podemos ainda alterar a largura e a cor. <br><br>
-    Propriedades: <br>
+- Border - Circunda o padding e o content. Com a border podemos ainda alterar a largura e a cor. <br><br>
+  Propriedades: <br>
 
-    - solid - mostra uma borda simples e reta. <br>
-    - dotted - são bolinhas com pequeno espaçamento entre elas. <br>
-    - dashed - forma uma linha tracejada. <br>
+  - solid - mostra uma borda simples e reta. <br>
+  - dotted - são bolinhas com pequeno espaçamento entre elas. <br>
+  - dashed - forma uma linha tracejada. <br>
 
-  - Padding - E o espaçamento entre a border e o content. <br>
+- Padding - E o espaçamento entre a border e o content. <br>
 
-  - Content - É o que o seu bloco representa. <br>
+- Content - É o que o seu bloco representa. <br>
