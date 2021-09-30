@@ -61,7 +61,7 @@
 
 - ID: é representado pelo símbolo # (hash) seguido de um nome para o ID.
 
-- Class: é representada de forma parecida com o ID, mas é precedida por um . (ponto) em de # (hash).
+- Class: é representada de forma parecida com o ID, mas é precedida por um . (ponto) em vez de # (hash).
 
 ## Conceitos Básicos
 
