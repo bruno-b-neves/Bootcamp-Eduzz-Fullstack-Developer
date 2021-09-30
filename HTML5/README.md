@@ -22,9 +22,15 @@
     - <article> - Conteúdo relevante como o artigo de um blog.
     - <h1>-<h6> - Representa a importância do titulo.
 
-## Textos e links
+## Textos e links - <p><a>
 
 - p - Representa um parágrafo, mas aceita todo tipo de conteúdo dentro dele.
 
 - a - Link(âncora) interliga varios conteúdos na Web,
   exemplo: \*<a href="https://www.linkedin.com/in/bruno-barbosa-neves-1b15621ab/">LinkedIn</a> \*<a href="mailto:brunobningles@gmail.com">E-mail</a> \*<a target="_blank">Link</a>
+
+## Imagens - <img>
+
+- img - Imagem - img tem apenas dois atributos próprios o source(obrigatório) e o alt(recomendável para melhorar a acessibilidade)
+
+## Listas <ul>, <ol>, <li>
