@@ -89,7 +89,7 @@
 
 <h3>Background</h3>
   - Explicação: <br>
-    - A propriedade <i>background<i> tem tem um atalho para várias propriedades, e uma boa opção de leitura é a Documentação do MDN. <br>
+    - A propriedade <i>background</i> tem tem um atalho para várias propriedades, e uma boa opção de leitura é a Documentação do MDN. <br>
     <br>
     - E como podemos utilizar a background? <br>
       - Podemos utilizar a background da seguinte forma para alterar as cores.
