@@ -69,7 +69,7 @@
 
   - Margin - É o espaçamento entre elementos.
 
-  - Border - Circunda o padding e o content. Com a border podemos ainda alterar a largura e a cor. <br>
+  - Border - Circunda o padding e o content. Com a border podemos ainda alterar a largura e a cor. <br><br>
     Propriedades: <br>
 
     - solid - mostra uma borda simples e reta. <br>
