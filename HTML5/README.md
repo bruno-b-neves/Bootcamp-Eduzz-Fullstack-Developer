@@ -77,11 +77,27 @@
 
 ### Estilizando elementos
 
-- <h3>Padding e Margin</h3>
-    - Explicação:<br>
-      - 1ª Forma:  <br>
-        - Colocamos um valor superior e inferior, depois colocamos para os lados esquerdo e direito.<br><br>
-      - 2ª Forma: <br>
-          - Começamos pelo topo 15px, lado direito 10px, inferior 5px, lado esquerdo 0, sempre dessa forma.<br><br>
-      - 3ª Forma: <br>
-          - É com as propriedades específicas para cada lado. Exemplo: padding-left: 10px;
+<h3>Padding e Margin</h3>
+
+- Explicação:<br>
+  - 1ª Forma: <br>
+    - Colocamos um valor superior e inferior, depois colocamos para os lados esquerdo e direito.<br><br>
+  - 2ª Forma: <br>
+    - Começamos pelo topo 15px, lado direito 10px, inferior 5px, lado esquerdo 0, sempre dessa forma.<br><br>
+  - 3ª Forma: <br>
+    - É com as propriedades específicas para cada lado. Exemplo: padding-left: 10px; <br><br>
+
+<h3>Background</h3>
+  - Explicação: <br>
+    - A propriedade <i>background<i> tem tem um atalho para várias propriedades, e uma boa opção de leitura é a Documentação do MDN. <br>
+    <br>
+    - E como podemos utilizar a background? <br>
+      - Podemos utilizar a background da seguinte forma para alterar as cores.
+        - 1ª Forma: <br>
+          - Pelo nome da cor.
+          <i>background: gray;<i>
+        - 2ª Forma: <br>
+          - Pelo código Hexadecimal.
+           <i>background: #ccc</i>
+        - 3ª Forma: <br>
+          - É usando o atalho <i>background</i>
