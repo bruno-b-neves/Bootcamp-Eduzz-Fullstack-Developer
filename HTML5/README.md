@@ -102,7 +102,7 @@
         - 3ª Forma: <br>
           - É usando o atalho <i>background</i> <br><br>
 <h3>Border</h3>
-  - Explicação:
+  - Explicação: <br>
    - Vimos que a propriedade border pode ter 3 valores: a largura, a cor e o estilo, mas existem algumas particularidades nisso. 
       - A largura pode ser usada com várias unidades, como px, em e mm.
       - A cor pode ser atribuída pelo nome ou por um código hexadecimal
