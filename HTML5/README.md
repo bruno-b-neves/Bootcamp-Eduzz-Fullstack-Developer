@@ -80,8 +80,8 @@
 - <h3>Padding e Margin</h3>
     - Explicação:<br>
       - 1ª Forma:  <br>
-        * Colocamos um valor superior e inferior, depois colocamos para os lados esquerdo e direito.<br><br>
+        - Colocamos um valor superior e inferior, depois colocamos para os lados esquerdo e direito.<br><br>
       - 2ª Forma: <br>
-        * Começamos pelo topo 15px, lado direito 10px, inferior 5px, lado esquerdo 0, sempre dessa forma.<br><br>
+          - Começamos pelo topo 15px, lado direito 10px, inferior 5px, lado esquerdo 0, sempre dessa forma.<br><br>
       - 3ª Forma: <br>
-        - É com as propriedades específicas para cada lado. Exemplo: padding-left: 10px;
+          - É com as propriedades específicas para cada lado. Exemplo: padding-left: 10px;
