@@ -100,7 +100,7 @@
           - Pelo código Hexadecimal. <br>
            background: #ccc
         - 3ª Forma: <br>
-          - É usando o atalho <i>background</i> <br><br>
+          - É usando o atalho background<br><br>
 <h3>Border</h3>
   - Explicação: <br>
    - Vimos que a propriedade border pode ter 3 valores: a largura, a cor e o estilo, mas existem algumas particularidades nisso. <br>
