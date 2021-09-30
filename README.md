@@ -4,23 +4,28 @@ Conteúdos passados durante o Bootcamp Eduzz Fullstack Developer
 
 ## HTML5
 
-- Introdução
-  - Definição e Estrutura básica.
-  - Textos e links.
-  - Semântica.
-  - Imagens.
-  - Listas.
-- Práticas:
-  - Definição e Estrutura básica: Será feito um exercicio para construir um site pessoal.
-  - Semântica: Dando continuidade ao site pessoal, trataremos a semântica do site pessoal.
-  - Textos e links: Como exercicio faremos um texto ficticio e que terá um link no nosso site pessoal.
-  - Imagens: Adicionaremos imagens ao nosso site pessoal.
-  - Listas: Adicionaremos uma lista de contato.
+- Introdução ao curso de HTML
+  - Estrutura básica
+- Entendendo o que é semântica
+  - Semântica - Parte 1
+  - Semântica - Parte 2
+- Como usar textos e links em HTML
+  - Tags para textos
+  - Tags para links
+  - Exercício prático
+- Como inserir imagens em seu site
+  - Tag img
+  - Exercício prático
+- Como organizar listas com HTML
+  - Tags li, ul e ol
+  - Exercício prático
+  - Certifique seu conhecimento
 
 ## CSS3
   - Introdução e conceitos básicos do CSS3
     - Introdução ao CSS3
     - Conceitos básicos
+    - Material de apoio
   - Estilizando elementos, textos e listas
     - Estilizando elementos
     - Estilizando textos
