@@ -95,7 +95,7 @@
       - Podemos utilizar a background da seguinte forma para alterar as cores.
         - 1ª Forma: <br>
           - Pelo nome da cor.
-          <i>background: gray;<i>
+          <i>background: gray;</i>
         - 2ª Forma: <br>
           - Pelo código Hexadecimal.
            <i>background: #ccc</i>
