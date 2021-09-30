@@ -31,7 +31,7 @@
 
 ## Imagens - img
 
-- img - Imagem - img tem apenas dois atributos próprios o source(obrigatório) e o alt(recomendável para melhorar a acessibilidade)
+- img - Imagem - img tem apenas dois atributos próprios o source(obrigatório) e o alt(recomendável para melhorar a acessibilidade).
 
 ## Listas ul, ol, li
 
@@ -43,14 +43,39 @@
 
 # CSS3
 
+## Introdução CSS3
+
   <ol>
     <li>
-      O que são seletores
+      O que são seletores.
     </li>
     <li>
-      Conceitos básicos
+      Conceitos básicos.
     </li>
     <li>
-      Os principais seletores
+      Os principais seletores.
     </li>
   </ol>
+
+# ID e Classes
+
+- ID: é representado pelo símbolo # (hash) seguido de um nome para o ID.
+
+- Class: é representada de forma parecida com o ID, mas é precedida por um . (ponto) em de # (hash).
+
+# Conceitos Básicos
+
+- Box model - Existe 4 áreas, margin, border, padding, content.
+
+  - Margin - É o espaçamento entre elementos.
+
+  - Border - Circunda o padding e o content. Com a border podemos ainda alterar a largura e a cor.
+    Propriedades: <br>
+
+    - solid - mostra uma borda simples e reta. <br>
+    - dotted - são bolinhas com pequeno espaçamento entre elas. <br>
+    - dashed - forma uma linha tracejada. <br>
+
+  - Padding - E o espaçamento entre a border e o content. <br>
+
+  - Content - É o que o seu bloco representa. <br>
