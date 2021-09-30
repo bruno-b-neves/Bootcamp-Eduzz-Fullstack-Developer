@@ -94,10 +94,42 @@
     - E como podemos utilizar a background? <br>
       - Podemos utilizar a background da seguinte forma para alterar as cores.
         - 1ª Forma: <br>
-          - Pelo nome da cor.
-          <i>background: gray;</i>
+          - Pelo nome da cor. <br>
+          background: gray;
         - 2ª Forma: <br>
-          - Pelo código Hexadecimal.
-           <i>background: #ccc</i>
+          - Pelo código Hexadecimal. <br>
+           background: #ccc
         - 3ª Forma: <br>
-          - É usando o atalho <i>background</i>
+          - É usando o atalho <i>background</i> <br><br>
+<h3>Border</h3>
+  - Explicação:
+   - Vimos que a propriedade border pode ter 3 valores: a largura, a cor e o estilo, mas existem algumas particularidades nisso. 
+      - A largura pode ser usada com várias unidades, como px, em e mm.
+      - A cor pode ser atribuída pelo nome ou por um código hexadecimal
+      
+        - solid: mostra uma borda simples e reta;
+
+        - dotted: são bolinhas com um pequeno espaçamento entre elas;
+
+        - dashed: forma uma linha tracejada.
+
+    - Existem ainda outras propriedades para border que são:
+
+      - border-width
+      - border-color
+      - border-style
+      - border-radius
+
+<h3>Estilizando textos</h3>
+
+- font-family <br>
+
+  - Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador. <br>
+
+- font-size <br>
+
+  - O font-size nos ajuda a mudar o tamanho do texto.<br>
+
+- font-style <br>
+
+  - Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor italic para ele, mas se precisar tirar o itálico de um texto você pode usar o valor normal.
