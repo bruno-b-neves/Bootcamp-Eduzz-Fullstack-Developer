@@ -105,7 +105,7 @@
   - Explicação: <br>
    - Vimos que a propriedade border pode ter 3 valores: a largura, a cor e o estilo, mas existem algumas particularidades nisso. <br>
       - A largura pode ser usada com várias unidades, como px, em e mm. <br>
-      - A cor pode ser atribuída pelo nome ou por um código hexadecimal
+      - A cor pode ser atribuída pelo nome ou por um código hexadecimal.
       
         - solid: mostra uma borda simples e reta;
 
