@@ -57,13 +57,13 @@
     </li>
   </ol>
 
-# ID e Classes
+## ID e Classes
 
 - ID: é representado pelo símbolo # (hash) seguido de um nome para o ID.
 
 - Class: é representada de forma parecida com o ID, mas é precedida por um . (ponto) em de # (hash).
 
-# Conceitos Básicos
+## Conceitos Básicos
 
 - Box model - Existe 4 áreas, margin, border, padding, content.
 
