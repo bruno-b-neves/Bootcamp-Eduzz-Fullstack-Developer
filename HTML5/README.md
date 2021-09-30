@@ -34,3 +34,23 @@
 - img - Imagem - img tem apenas dois atributos próprios o source(obrigatório) e o alt(recomendável para melhorar a acessibilidade)
 
 ## Listas ul, ol, li
+
+- ul - Reresenta uma lista que não é importante
+
+- ol - São importantes e são representandos com números, letras ou algorismo romano.
+
+- li - Item da lista ul ou ol
+
+# CSS3
+
+  <ol>
+    <li>
+      O que são seletores
+    </li>
+    <li>
+      Conceitos básicos
+    </li>
+    <li>
+      Os principais seletores
+    </li>
+  </ol>
