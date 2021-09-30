@@ -24,7 +24,7 @@
 
 ## Textos e links
 
-- <p> - Representa um parágrafo, mas aceita todo tipo de conteúdo dentro dele.
+- <!--<p>--> - Representa um parágrafo, mas aceita todo tipo de conteúdo dentro dele.
 
 - <a> - Link(âncora) interliga varios conteúdos na Web,
   exemplo: \*<a href="https://www.linkedin.com/in/bruno-barbosa-neves-1b15621ab/">LinkedIn</a> \*<a href="mailto:brunobningles@gmail.com">E-mail</a> \*<a target="_blank">Link</a>
